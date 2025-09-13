@@ -1,4 +1,4 @@
-# Weather Data Visualization
+# Weather Data Visualisation
 
 A Python script that fetches weather forecast data from the Open-Meteo API and creates various visualizations including 2D line plots, 3D surface plots, and gradient analysis.
 
