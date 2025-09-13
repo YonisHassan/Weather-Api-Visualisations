@@ -57,10 +57,23 @@ weather_viz.analyze_gradients()
 - `plot_3d_with_vectors()` - 3D surface with gradient vectors
 - `generate_all_plots()` - Generate all visualization types
 
+## Sample Output
+
+Here's what the visualizations look like:
+
+
+**Gradient Analysis:**
+
+![Gradient Analysis](v1.png)
+
+
+**3D Temperature Surface:**
+![3D Surface](v2.png)
+
 ## Notes
 
 - Uses the free Open-Meteo API (no key needed)
 - The gradient stuff was me trying to understand how temperature changes across time
 - Probably went overboard with the 3D plots but they look cool
 
-That's it! Just a fun little project to practice working with APIs and matplotlib.
+That's all son, watch your step kid.
